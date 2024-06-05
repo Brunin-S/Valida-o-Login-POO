@@ -44,7 +44,7 @@ class login {
     }
 }
 
-$login = new login("Bruno Santana", "santanabruno.kg@gmail.com", "loveyouz1");
+$login = new login("Bruno Santana", "santanabruno.kg@gmail.com", "12345");
 $login->Logar();
 
 
