@@ -36,7 +36,7 @@ class login {
     }
 
     public function Logar() {
-        if ($this-> email == "santanabruno.kg@gmail.com" && $this-> senha == "loveyouz1") {
+        if ($this-> email == "santanabruno.kg@gmail.com" && $this-> senha == "12345") {
             echo "Logado com sucesso senhor(a) " . $this->getNome() . ".";
         } else {
             echo "Credenciais invalidas!";
